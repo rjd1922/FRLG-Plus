@@ -240,7 +240,7 @@ If your emulator or flashcart isn't working properly with FRLG+, follow instruct
 ## Modifying FRLG+:
 
 ### Can I use FRLG+ as a ROM Base?
-My official stance is that all mods of FRLG+ are unauthorized and unsupported. If you choose to use FRLG+ as a ROM Base, I will not offer any support nor answer questions regarding developing a mod of this hack.
+My official stance is that all mods of FRLG+ are unauthorized and unsupported, but derivative works of FRLG+ must be free and open source. If you choose to use FRLG+ as a ROM Base, I will not offer any support nor answer questions regarding developing a mod of this hack. Use of FRLG+ as a base is contingent on your resulting work being free and open source, as FRLG+ is.
 
 ### How did you implement *x* feature? Can I use *y* feature for my hack?
 My commits are descriptively labeled. If you want to grab something from FRLG+, go back through my commits and find where I implemented it. I don't offer support or answer questions for lifting things from FRLG+, but since the project is open source anyone can take from it.
