@@ -135,7 +135,7 @@ Every time you enter the Hall of Fame, an uncaught legendary beast will begin to
 
 <details>
   <summary>The MysticTicket for Lugia and Ho-oh on Navel Rock:</summary>
-  Obtain the Extended Dex, then get the diploma for completing the Kanto Pokédex in Celadon Mansion.
+  Obtain the Extended Dex, then get the diploma for completing the Kanto Pokédex in Celadon Condomiums.
 </details>
 
 <details>
